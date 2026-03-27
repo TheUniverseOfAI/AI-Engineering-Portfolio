@@ -1,0 +1,9 @@
+[project]
+        name = "001_rag_pdf_qa"
+        version = "0.1.0"
+        description = "RAG starter project"
+        requires-python = ">=3.12"
+        dependencies = []
+
+        [tool.uv]
+        package = false

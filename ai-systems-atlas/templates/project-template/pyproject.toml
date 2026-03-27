@@ -1,0 +1,9 @@
+[project]
+        name = "project-template"
+        version = "0.1.0"
+        description = "Template project"
+        requires-python = ">=3.12"
+        dependencies = []
+
+        [tool.uv]
+        package = false

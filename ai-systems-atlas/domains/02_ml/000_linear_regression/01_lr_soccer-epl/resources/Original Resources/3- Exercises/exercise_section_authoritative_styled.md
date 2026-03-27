@@ -1,0 +1,67 @@
+<style>
+.section-data {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  color: #151515;
+}
+
+.section-data h2 {
+  margin-bottom: 12px;
+}
+
+.section-data p {
+  margin-bottom: 12px;
+}
+
+.section-data ul {
+  margin-top: 12px;
+}
+</style>
+
+<section class="section-data px-3 mt-5 lg:px-16 py-3 lg:py-4 relative z-1">
+    <div class="max-w-screen-2xl mx-auto grid grid-cols-12">
+
+                <div class="col-span-12 lg:col-span-8 lg:pr-20">
+                    <h2 class="text-xl lg:text-4xl font-bold">Problem Statement</h2>
+                    <div class="mt-4 relative">
+                        <p>Predict the ticket price for the flight using the Linear Regression Algorithm</p>                    </div>
+
+
+                                        <h2 class="text-xl mt-10 lg:mt-14 lg:text-4xl font-bold">Dataset</h2>
+                    <div class="mt-4">
+
+
+
+                    <p>The data contains 12 variables and of which <strong>Price</strong> is the Target variable. The complete data dictionary can be found <a href="https://daxg39y63pxwu.cloudfront.net/hands-on-labs/2874/flight-price-prediction-using-machine-learning/datasets/Data+Dictionary.xlsx" target="_blank" rel="noopener" aria-invalid="true">here</a>.</p>
+<p>&nbsp;</p>
+<p>Kindly download the data from <a href="https://daxg39y63pxwu.cloudfront.net/hands-on-labs/2874/flight-price-prediction-using-machine-learning/datasets/Flight_Price_Prediction.csv" target="_blank" rel="noopener">here</a>.</p>
+<p>&nbsp;</p>
+
+                    </div>
+                    
+                </div>
+                <aside class="col-span-12 lg:col-span-4 flex flex-col lg:items-center relative">
+                                    <div class="mt-10 lg:mt-0 mb-16">
+                        <h2 class="text-xl font-bold self-start">Projects for this Exercise</h2>
+                        <div class="w-full bg-black h-1"></div>
+                        <div class="relative">
+                            <ul class="py-5 grid gap-y-5 !pl-0">
+                                                                    <li class="list-unstyled"><a title="Linear Regression Model Project in Python for Beginners Part 1" href="/project-use-case/fundamentals-simple-linear-regression-python-beginners">Linear Regression Model Project in Python for Beginners Part 1</a></li>
+                                                            </ul>
+                        <div>
+                    </div>
+                
+
+                    
+
+            
+
+
+                </div></div></aside>
+
+      
+
+
+    </div>
+    </section>
+

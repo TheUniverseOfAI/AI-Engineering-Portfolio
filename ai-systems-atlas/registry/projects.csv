@@ -1,0 +1,5 @@
+id,name,domain,level,status,entry_point,tags,description
+001,001_linear_regression_from_scratch,02_ml,,planned,uv run python -m src.app,,Beginner ML project
+002,002_house_price_prediction,02_ml,,planned,uv run python -m src.app,,Regression project
+001,001_sentiment_analysis_baseline,04_nlp,,planned,uv run python -m src.app,,NLP classification project
+001,001_rag_pdf_qa,10_genai_llm,,planned,uv run python -m src.app,,RAG starter project

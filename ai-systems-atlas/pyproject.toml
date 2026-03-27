@@ -1,0 +1,9 @@
+[project]
+        name = "ai-systems-atlas"
+        version = "0.1.0"
+        description = "AI/ML multi-project repository"
+        requires-python = ">=3.12"
+        dependencies = []
+
+        [tool.uv]
+        package = false

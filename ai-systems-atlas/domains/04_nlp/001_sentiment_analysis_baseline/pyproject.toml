@@ -1,0 +1,9 @@
+[project]
+        name = "001_sentiment_analysis_baseline"
+        version = "0.1.0"
+        description = "NLP classification project"
+        requires-python = ">=3.12"
+        dependencies = []
+
+        [tool.uv]
+        package = false

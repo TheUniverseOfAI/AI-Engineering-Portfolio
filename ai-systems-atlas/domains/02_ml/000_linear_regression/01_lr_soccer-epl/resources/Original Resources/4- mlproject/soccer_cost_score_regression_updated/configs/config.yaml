@@ -1,0 +1,14 @@
+dataset_path: "data/raw/EPL_Soccer_MLR_LR.csv"
+
+feature_columns:
+  - "Cost"
+
+target_column: "Score"
+
+task_type: "regression"
+target_transform: "sqrt"   # from notebook choice
+
+test_size: 0.25
+random_state: 100
+
+model_output: "models/epl_soccer_cost_score.joblib"
