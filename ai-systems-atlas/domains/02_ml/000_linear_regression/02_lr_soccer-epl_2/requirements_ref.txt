@@ -1,3 +1,11 @@
+# original 
+!pip install numpy==1.21.2 --quiet
+!pip install seaborn==0.11.1 --quiet
+!pip install matplotlib==3.1.1 --quiet
+!pip install statsmodels==0.12.2 --quiet
+!pip install pandas==1.2.4 --quiet
+!pip install scipy==1.6.3 --quiet
+!pip install scikit_learn==1.0.2 --quiet
 
 numpy==1.21.6
 pandas==1.2.5
